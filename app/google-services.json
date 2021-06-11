@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443191423381",
+    "project_id": "todoit-85bf2",
+    "storage_bucket": "todoit-85bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443191423381:android:17990ee6699bf6cf7f869c",
+        "android_client_info": {
+          "package_name": "com.example.todoit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443191423381-jockrv9lb5bn125httskb2u0a2hiltbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwu1p4IFxdw9rEIvjF36smyKqMOzkDSSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443191423381-jockrv9lb5bn125httskb2u0a2hiltbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
